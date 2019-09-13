@@ -1,5 +1,6 @@
 var array = [5,5,7,8,6,5];
 
+
 function howmany(x){
     var x = x.sort(function(a, b){return a-b});
     var repetido = 0;
