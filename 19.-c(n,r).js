@@ -23,4 +23,4 @@ function conv (n,r) {
 
 }
 
-console.log(`El resultado 1>${conv(10,3)}`)
+console.log(`El resultado ${conv(10,3)}`)
