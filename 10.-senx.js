@@ -5,4 +5,4 @@ function senx(x){
 
 }
 
-senx(6)
+senx(x)
